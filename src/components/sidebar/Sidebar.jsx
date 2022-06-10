@@ -50,7 +50,9 @@ const Sidebar = () => {
           </Link>
           <li>
             <CreditCardIcon className="icon" />
-            <span>Orders</span>
+            <span>
+              <a href="https://cashdik.com/">Auto Insurance</a>
+            </span>
           </li>
           <li>
             <LocalShippingIcon className="icon" />
